@@ -1,9 +1,6 @@
 # Definite Loop
 
 # Variables
-from token import NUMBER
-
-
 numbers_entered = []
 
 # Hard Coded Name
